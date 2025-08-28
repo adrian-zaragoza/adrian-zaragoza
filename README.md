@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @adrian-zaragoza
-- 👀 I’m interested in building the next big thing.
-- 🌱 I’m currently learning Vue and improving my skills in Javascript.
+- 👨‍💻 I’m currently implementing AI tools in web applications to make customers happy.
 - 💞️ I’m looking to collaborate on non profit work.
-- 🎮 I'm currently playing Destiny 2 and God of War on PS5. PSN sweet_tacox
+- 🎮 I'm currently playing Fortnite and Assassins Creed on PS5. PSN sweet_tacox
 - 📫 You can reach me at my email: azaragoza.lupian@gmail.com
 
 <!---
